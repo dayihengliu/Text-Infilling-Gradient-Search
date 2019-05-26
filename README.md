@@ -14,7 +14,7 @@ This repo contains the code and data of the following paper:
 - Inference: Run `TIGS_inference.ipynb`   
 
 ## Trained Model
-Download the datasets at the link https://drive.google.com/open?id=1IABzc6ovkR6Uprnl3isSAWf6ax2fLHgH
+Download the trained models at the link https://drive.google.com/open?id=1IABzc6ovkR6Uprnl3isSAWf6ax2fLHgH
 - The APRC trained model can be found in `Model/APRC`
 - The Poem trained model can be found in `Model/Poem` 
 - The Daily trained model can be found in `Model/Daily` 
