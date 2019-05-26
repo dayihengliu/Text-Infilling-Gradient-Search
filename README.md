@@ -20,6 +20,7 @@ This repo contains the code and data of the following paper:
 - The Daily trained model can be found in `Model/Daily` 
 
 ## Dataset
+Download the datasets at this link https://drive.google.com/open?id=1GKyBtU0pPysB10wdsqMxYDoQ5CRQIXI8
 - The APRC dataset can be found in `Data/APRC`
 - The Poem dataset can be found in `Data/Poem` 
 - The Daily dataset can be found in `Data/Daily`   
