@@ -1,3 +1,6 @@
+<p align="center"><img width="80%" src="overview_2.pdf"/></p>   
+
+
 # TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search
 
 This repo contains the code and data of the following paper:
