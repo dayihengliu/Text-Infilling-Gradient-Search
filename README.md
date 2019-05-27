@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="overview_2.pdf"/></p>   
+<p align="center"><img width="80%" src="1.png"/></p>   
 
 
 # TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search
