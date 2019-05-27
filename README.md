@@ -7,7 +7,7 @@ This repo contains the code and data of the following paper:
 ## Overview
 <p align="center"><img width="80%" src="1.png"/></p>   
 
-Given a well-trained sequential generative model, generating missing symbols conditioned on the context is challenging for existing greedy approximate inference algorithms. We propose a dramatically different inference approach called Text Infilling with Gradient Search (TIGS), in which we search for inﬁlled words based on gradient information to fill in the blanks. To the best of our knowledge, this could be the ﬁrst inference algorithm that does not require any modiﬁcation or training of the model and can be broadly used in any sequence generative model to solve the ﬁllin-the-blank tasks
+Given a well-trained sequential generative model, generating missing symbols conditioned on the context is challenging for existing greedy approximate inference algorithms. We propose a dramatically different inference approach called Text Infilling with Gradient Search (**TIGS**), in which we search for inﬁlled words based on gradient information to fill in the blanks. To the best of our knowledge, this could be the ﬁrst inference algorithm that does not require any modiﬁcation or training of the model and can be broadly used in any sequence generative model to solve the ﬁllin-the-blank tasks.
 
 
 ## Dependencies
