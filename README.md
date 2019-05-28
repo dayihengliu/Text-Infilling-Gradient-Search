@@ -2,7 +2,7 @@
 # TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search
 
 This repo contains the code and data of the following paper:
->**TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**, *Dayiheng Liu, Jie Fu, Pengfei Liu, Jiancheng Lv*, Association for Computational Linguistics. **ACL** 2019
+>**TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**, *Dayiheng Liu, Jie Fu, Pengfei Liu, Jiancheng Lv*, Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.org/abs/1905.10752)
 
 ## Overview
 <p align="center"><img width="80%" src="1.png"/></p>   
